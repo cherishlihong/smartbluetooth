@@ -1,0 +1,30 @@
+   
+  .list_item{
+	padding:3px 5px 0px 5px; 
+	clear:both;
+	border-bottom:1px solid #eee;
+	width:98vw;
+	height:28vw;
+	margin-top: 2vw;
+}
+  .list_item .list_item_img{
+	width:25vw;
+	height:auto;
+	float:left;
+}
+  .list_item .list_item_word{
+    width: 65vw;
+    height: auto;
+	 float: right;
+}
+#message{
+	color: #fff;
+	display: block;
+	width: 47VW;
+	height: 6VW;
+	background: #99cc99;
+	line-height: 6vw;
+	text-align:center; 
+	border-radius:3px;
+	margin-top: 2.5vw;
+}

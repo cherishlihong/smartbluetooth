@@ -1,0 +1,14 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: none;
+	font-size: 2.8825vw;
+	font-family: "microsoft yahei";
+}
+
+html,
+body {
+	height: 100%;
+	overflow: hidden;
+	padding:0px 5px 0px 5px;
+}
